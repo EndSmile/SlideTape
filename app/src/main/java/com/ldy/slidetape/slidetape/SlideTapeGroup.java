@@ -68,7 +68,7 @@ public class SlideTapeGroup extends ViewGroup {
 
         indicatorPaint = new Paint();
         indicatorPaint.setStrokeWidth(dip2px(3));
-        Log.setColor(0xff4DB977);
+        indicatorPaint.setColor(0xff4DB977);
 
     }
 
